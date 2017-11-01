@@ -24,8 +24,8 @@ void app_main(void){
 
   wifi_config_t staConf = {
     .sta = {
-      .ssid = "ASUS",
-      .password = "pumkins123",
+      .ssid = "",
+      .password = "",
       .bssid_set = 0
     }
   };
